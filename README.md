@@ -1,3 +1,6 @@
+## Helmi Salasfazri
+## 312010486
+
 ## Latihan
 *Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut Soal
@@ -145,7 +148,8 @@ while True:
         print("<><><><><><><><><><><><><><><><>")
 ```
 
-*Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya. Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
+*Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary Saya akan menjelaskan dikit mengenai fitur-
+fitur yang ada dalam program sederhana saya. Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 hasil
 ![Soal](gambar/hasilpraktikum.PNG)
 
