@@ -5,6 +5,7 @@ Perhatikan Soal Berikut Soal
 dan ini hasil dari source code diatas
 ![Soal](gambar/hasillatihan.png)
 
+```python
 gunakan Lambda \n   def a(x): \n \t   return x ** 2")
 print("   Hasil : lambda x: x ** 2")
 
