@@ -1,20 +1,11 @@
 ## Latihan
 *Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut Soal
-![Soal](gambar/soallatihan.PNG)
+![Soal](gambar/soallatihan.png)
 dan ini hasil dari source code diatas
-![Soal](gambar/hasillatihan.PNG)
+![Soal](gambar/hasillatihan.png)
 
-```python
-#Helmi
-print("________________________________________")
-#mengubah function menggunakan lambda
-def a(x):
-    return x ** 2
-
-lambda x: x ** 2
-
-print("1. Mengubah function menggunakan Lambda \n   def a(x): \n \t   return x ** 2")
+gunakan Lambda \n   def a(x): \n \t   return x ** 2")
 print("   Hasil : lambda x: x ** 2")
 
 def b(x, y):
@@ -46,8 +37,6 @@ print("   Hasil : lambda s: "".join(set(s)))")
 
 ```
 *Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, tp disini saya akan berikan contoh untuk output dari source code tersebut Berikut outputnya
-
-
 *Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
 Tugas Praktikum
 Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen. Yaitu membuat progam sederhana menggunakan fungsi. Yang menampilkan Data Mahasiswa.
@@ -178,6 +167,6 @@ System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada piliha
 hasil
 
 FLOWCHART
-![Soal](gambar/flowchart.PNG)
+![Soal](gambar/flowchart.png)
 Dan terakhir adalah Hasil Dari Flowchart
 flowchart
