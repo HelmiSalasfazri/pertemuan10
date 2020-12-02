@@ -1,5 +1,6 @@
 ## Helmi Salasfazri
 ## 312010486
+## Ti.20.A2
 
 ## Latihan
 *Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
